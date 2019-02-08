@@ -2,10 +2,6 @@
 
 ## Specification
 
-### Phase Zero
-
-- Get the project set up and all of the necessary dependencies installed.
-
 ### Phase One
 
 Users should be able to:
